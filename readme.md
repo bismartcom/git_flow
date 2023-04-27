@@ -77,3 +77,4 @@ Para poder disfrutar de un terminal molón y bonito, instalar oh-my-posh:
 
 [opcion 3](https://dev.to/geekheaddd/beautify-windows-terminal-using-oh-my-guide-for-newbies-3m3k#:~:text=Oh%20my%20posh%20for%20Windows%20%282022%20guide%20for,the%20following%20oh-my-posh%20font%20install.%20...%20M%C3%A1s%20elementos) Un friki como otros...
 
+
