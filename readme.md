@@ -1,4 +1,4 @@
-# Formació GIT
+# Formación GIT
 
 
 ## Objetivos formación
@@ -33,13 +33,19 @@
 * [Instalar Git for windows](https://git-scm.com/download/win), o actualizar a la última versión  (2.40.0)
 * [Instalar visual studio code](https://code.visualstudio.com/docs/?dv=win)
 
+* [Instalar Visual Studio](https://visualstudio.microsoft.com/downloads/). La versión community es suficiente aunque en principio teneis licencia en Bimart para instalar la versión "Enterprise". Necesitareis instalar los componentes para crear proyectos de SQL.
+
+
+Lo siguiente es probar si tenemos bien instalado Git, con el Path correcto y demás:
+
 * Abrir un el terminal de windows y ejecutar "git" y deberíamos recibir algo como esto que no sea un error:
 
 **Abrir terminal**
+
 ![](images/20230424155351.png)
 
 **Escribir "git"**
+deberíais recibir un comando parecido a esto (si sale algo de "error" es que vamos mal)
 ![](images/20230424155314.png)
 
-
-
+>Nota: si teneis algún error, contactad conmigo (joan.teixido@bismart.com) y lo miramos **ANTES** de la formación

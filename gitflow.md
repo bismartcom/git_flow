@@ -1,4 +1,4 @@
-Git Flow:
+# Git Flow
 
 El flujo de trabajo debe ser el siguiente:
 
