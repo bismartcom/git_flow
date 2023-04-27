@@ -27,6 +27,15 @@
     
 * [Sesión 3](./sesion3.md) (2h)
     * Labs con proyecto Datafactory
+---
+# Criterios de evaluación
+
+La evaluación consiste en 3 items:
+
+* Asistir a un 80% de la formación
+* Tener una actitud despierta y activa
+* Al finalizar, se pasará un test sobre Kahoot. Se deben acertar al menos el 50% de las preguntas. 
+* Tener los "entregables" de los ejercicios hechos y que se pueda mostrar el resultado. 
 
 ---
 ## Preconfiguración antes de la formación
