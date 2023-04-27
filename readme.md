@@ -28,7 +28,7 @@
 * [Sesión 3](./sesion3.md) (2h)
     * Labs con proyecto Datafactory
 ---
-# Criterios de evaluación
+## Criterios de evaluación
 
 La evaluación consiste en 3 items:
 
@@ -64,3 +64,16 @@ deberíais recibir un comando parecido a esto (si sale algo de "error" es que va
 
 ## Ejercicios previos
 Si os aburrís, podeis entrar en https://learngitbranching.js.org/ y hacer algunos ejercicios... eso os convertirá en alumnos aventajados. 
+
+
+## Requisitos avanzados
+
+Para poder disfrutar de un terminal molón y bonito, instalar oh-my-posh:
+
+[opcion 1](https://ohmyposh.dev/) Ofical site
+
+
+[opcion 2](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup) Instrucciones de microsoft
+
+[opcion 3](https://dev.to/geekheaddd/beautify-windows-terminal-using-oh-my-guide-for-newbies-3m3k#:~:text=Oh%20my%20posh%20for%20Windows%20%282022%20guide%20for,the%20following%20oh-my-posh%20font%20install.%20...%20M%C3%A1s%20elementos) Un friki como otros...
+
