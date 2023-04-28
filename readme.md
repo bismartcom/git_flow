@@ -6,7 +6,9 @@
 1. Ser capaz de hacer un proyecto end-to-end sobre git, de acuerdo a la forma de trabajo de Bismart
 2. Conocer funcionamiento básico de GIT en cualquier proyecto
 3. Conocer la herramienta de Visual Studio Code
-4. Conocer la como configurar git en nuestra máquina local: .gitignore, .gitconfig, ...
+4. Conocer la como configurar git en nuestra máquina local: .gitignore, .
+gitconfig, ...
+5. Implementar la metodología de trabajo en un proyecto de Bismart durante el 2023
 
 ---
 ## Índice   
