@@ -32,9 +32,11 @@ Tenemos powerpoint con una presentación básica sobre git:
 
 ## Ejercicio 1: creacion de un propio repositorio
 
-Git es un repositorio de código distribuído. En tu máquina puede funcionar sin necesidad de conectarte a ningú lugar especial ni disponer de ninguna cuenta de ningún tipo. 
+**El objetivo del ejercicio es familiarizarse con los comandos de git, tanto en consola como con Visual Studio Code.**
 
-Para ello vamos a hacer algunos ejercicios básicos:
+Git es un repositorio de código distribuído; en tu máquina puede funcionar sin necesidad de conectarte a ningú lugar central ni disponer de ninguna cuenta de ningún tipo. 
+
+Para ello vamos a hacer algunos ejercicios básicos con el fin de entender el funcionamiento del flow básico con Git. 
 
 1. Crear una carpeta en tu directorio donde tengas los proyectos, que **no** sea bajo una carpeta controlada por **onedrive**.
 
@@ -52,7 +54,7 @@ A partir de aquí, por defecto, todos los ficheros y carpetas incluídos bajo es
 4. Abrir el visual Studio Code en esta carpeta "myGit", con boton derecho sobre carpeta, o con la terminal escribiendo: 
 
 ```
-code . 
+code . .
 ```
 
 5. Crear un fichero cualquiera con algún texto. 
@@ -87,6 +89,7 @@ git merge mi_nueva_rama
 
 Como estamos en la rama "main" eso nos trae los cambios en "mi_nueva_rama" a main. 
 
+12. Al final vamos a realizar exactamente los mismos pasos del ejercicio pero con Visual Studio Code.
 
 
 
