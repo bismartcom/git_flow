@@ -2,9 +2,9 @@
 
 ## Presentación de la formación (0 - 10)
 
-El objetivo de la formación es integrar en los proyectos de Bismart, una manera de trabajar sobre el código, sea SQL, Databricks, Datafactory o programas en Python. Queda fuera de la formación los proyectos centrados en Power BI, ya que al ser ficheros binarios grandes (un .pbix son distintos ficheros compromidos y empaquetados bajo un solo fichero) no hemos definido en Bismart aún una manera práctica de trabajar. 
+El objetivo de la formación es integrar en los proyectos de Bismart, una manera de trabajar sobre el código, sea SQL, Databricks, Datafactory o programas en Python. Queda fuera de la formación los proyectos centrados en Power BI, ya que al ser ficheros binarios grandes (un .pbix son distintos ficheros comprimidos y empaquetados bajo un solo fichero) no hemos definido en Bismart aún una manera práctica de trabajar con ellos. 
 
-Con esto, pretendemos que todos los proyectos de bismart adapten esta forma de trabajar o variaciones más senzillas sobre ellas. 
+Con esta formación, pretendemos que todos los proyectos de Bismart adapten esta forma de trabajar o variaciones sobre el flujo que vamos a desribir.
 
 ## Objetivos de la sesion 1
 
@@ -38,38 +38,37 @@ Git es un repositorio de código distribuído; en tu máquina puede funcionar si
 
 Para ello vamos a hacer algunos ejercicios básicos con el fin de entender el funcionamiento del flow básico con Git. 
 
-1. Crear una carpeta en tu directorio donde tengas los proyectos, que **no** sea bajo una carpeta controlada por **onedrive**.
+1. Crear una carpeta en tu directorio donde tengas los proyectos, que **no** sea bajo una carpeta controlada por **onedrive**. Git genera dentro una carpeta ".git" que contiene los ficheros necesarios para su funcionamiento, con la historia de cada documento, por lo que es una carpeta con mucho moviento de datos continuo. Con cada cambio se va a guardar la versión actual y los cambios por lo que no es recomendable tener **onedrive** funcionando a todo trapo cada minuto. 
 
 2. Ves a esa carpeta desde la terminal: puedes hacer click sobre la carpeta con el boton derecho y hacer click en "abrir con la terminal". O bien abre la consola, copia la ruta entera de tu carpeta y ejecuta: 
 
 ![](images/20230424171552.png)
+
 ```powershell
 cd C:\Users\joan.teixido\apps\myGit
 ````
 
 3. En esta carpeta vacía, ejecutamos "git init". En ese momento esta carpeta tendrá una carpeta oculta llamada .git
 
-A partir de aquí, por defecto, todos los ficheros y carpetas incluídos bajo esta carpeta estarán "tracked" por git. 
+A partir de aquí, por defecto, todos los ficheros y carpetas incluídos bajo esta carpeta que seleccionemos estarán "tracked" por git. 
 
-4. Abrir el visual Studio Code en esta carpeta "myGit", con boton derecho sobre carpeta, o con la terminal escribiendo: 
-
-```
-code . .
-```
+4. Abrir el visual Studio Code en esta carpeta "myGit", con boton derecho sobre carpeta, o con la terminal escribiendo:  ```code .```
 
 5. Crear un fichero cualquiera con algún texto. 
-6. Ejecutar ``` git add .  ``` para añadir todos los ficheros para preparar el commit 
+6. Ejecutar ```git add .``` para añadir todos los ficheros para preparar el commit 
 
-7. y luego un git commit -m "MENSAJE_DEL_COMMIT", para hacer un commit con ese fichero (o los que hayámos añadido)
+7. y luego un git commit -m "MENSAJE_DEL_COMMIT", para hacer un commit con ese fichero (o los que hayamos añadido)
 
 ```
 git commit -m "Añadido mi primer fichero al commit"
 ```
 
-Si ahora ejecutamos por ejemplo, ```git log``` tendremos la lista de commits ejecutados de más nuevo a más viejo. Cada commit tiene un ID que lo identifica y continene los datos del cambio. 
+Si ahora ejecutamos por ejemplo, ```git log``` tendremos la lista de commits ejecutados de más nuevo a más viejo. Cada commit tiene un ID que lo identifica y continene los datos del cambio (letra *j* i *k* para hacer scroll, *q* para salir)
 
 
-8. Vamos a crear una rama:
+
+
+8. Vamos a crear una nueva rama:
 
 ``` 
 git checkout -b mi_nueva_rama
@@ -78,7 +77,12 @@ git checkout -b mi_nueva_rama
 Con el -b creamos la rama y movemos el HEAD a esa nueva rama.
 
 9. Creamos otro fichero distinto y lo añadimos a un nuevo commit. 
+
+![](./images/commits.png)
+
+
 10. Finalmente cambiamos de rama y volvemos a main con ```git checkout main```
+
 11. Ahora ya no tenemos el nuevo fichero, ya que solo existe en la rama "mi_nueva_rama"
 
 Ahora se trata de juntar las dos ramas:
@@ -89,13 +93,15 @@ git merge mi_nueva_rama
 
 Como estamos en la rama "main" eso nos trae los cambios en "mi_nueva_rama" a main. 
 
+
+![](./images/20230504114542.png)
+
+
+
 12. Al final vamos a realizar exactamente los mismos pasos del ejercicio pero con Visual Studio Code.
 
 
+## Ejercicio 2: lo mismo con Visual Studio Code
 
-
-
-
-
-
+Repetir los pasos de antes con visual studio code. 
 
