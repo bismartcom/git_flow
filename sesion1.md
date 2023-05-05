@@ -105,3 +105,5 @@ Como estamos en la rama "main" eso nos trae los cambios en "mi_nueva_rama" a mai
 
 Repetir los pasos de antes con visual studio code. 
 
+
+## Ejercicio 3: clonar
