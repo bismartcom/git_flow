@@ -19,8 +19,8 @@ Con esta formación, pretendemos que todos los proyectos de Bismart adapten esta
 
 Si haceis la formación a vuestro paso, provad esta URL para autoexaminaros:
 
-(el link saldrá al acabar la formación no antes!)
-
+https://kahoot.it/challenge/093d68ba-2dac-4f5c-bdf3-1b31a9dffb2a_1682348715648
+PIN: 02361092
 ----
 ## Introduccion a git (50 - 80)
 
