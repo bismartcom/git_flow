@@ -30,9 +30,12 @@ Primero, es necesario tener claro el flujo entero, desde el primer desarrollo de
 ## Flujo de trabajo con Datafactory
 
 
-![](images/20230510084223.png)
+Repaso de como sería de manera genérica el flujo de trabajo:
 
-Para demostrar este flujo, vamos a hacerlo sobre un proyecto de Datafactory. 
+-> [git flow](gitflow.md)
+
+
+Aplicamos este flujo de trabajo sobre un proyecto de Datafactory. 
 
 Tenemos [3 entornos de Datafactory](https://portal.azure.com/#@bismart.com/resource/subscriptions/b49d990f-3e7e-4af9-9d9a-ce3872384a98/resourceGroups/rg-formacio-git/overview):
 * [Desarrollo](https://adf.azure.com/en/authoring/pipeline/Copy%20all%20facts%20by%20year?factory=%2Fsubscriptions%2Fb49d990f-3e7e-4af9-9d9a-ce3872384a98%2FresourceGroups%2Frg-formacio-git%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fadf-formaciogit-2023-d1)

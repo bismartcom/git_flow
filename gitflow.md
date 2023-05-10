@@ -2,7 +2,7 @@
 
 El flujo de trabajo debe ser el siguiente:
 
-![flujo](./images/git_flow.jpg)
+![flujo](./images/20230510084223.png)
 
 >Nota: siempre que hagamos una pull request, usaremos la estrategia "merge" y "fast-forward" y olvidamos hacer un Rebase. La razón es que el rebase elimina las ramas y crea una sola rama con una sola línea de trabajo. Es importante poder seguir siempre el origen de los cambios, quién y cuándo se han hecho los cambios.
 
