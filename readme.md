@@ -24,11 +24,11 @@ gitconfig, ...
 
 
 * [Sessión 2](./sesion2.md) (2h)
-    * Labs con proyecto SQL
+    * Labs con proyecto Datafactory
 
     
 * [Sesión 3](./sesion3.md) (2h)
-    * Labs con proyecto Datafactory
+    * Labs con proyecto SQL
 ---
 ## Criterios de evaluación
 

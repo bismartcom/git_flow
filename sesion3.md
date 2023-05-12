@@ -57,4 +57,11 @@ Al finalizar las tareas del sprint, hacer una PR contra main, despues de validar
 
 
 
+## Conclusiones
+
+* Kahoot
+* Próximos pasos para implementar en proyectos esta metodología
+
+
+
 
